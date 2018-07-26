@@ -1,8 +1,16 @@
 body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 
-a {
-  color: #00B7FF;
+.jumbotron {
+  background: url('../images/manhattan_new_york_city_night_cityscape_4k_8k-widescreen_wallpapers.jpg') no-repeat;
+  color: #33FF6D;
+}
+
+footer {
+  padding: 50px;
+  background: #f4f4f4;
+  margin-top: 20px;
+  text-align: center;
 }
